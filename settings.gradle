@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android"
 include ':app'
 include ':firstproject'
+include ':p002basicviews'
