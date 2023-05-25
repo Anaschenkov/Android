@@ -3,12 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.anaschenkov.android'
+    namespace 'com.anaschenkov.p006_viewbyld'
     compileSdk 33
 
-
     defaultConfig {
-        applicationId "com.anaschenkov.p006viewbyld"
+        applicationId "com.anaschenkov.p006_viewbyld"
         minSdk 24
         targetSdk 33
         versionCode 1

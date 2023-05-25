@@ -3,9 +3,8 @@ plugins {
 }
 
 android {
-    namespace 'com.anaschenkov.android'
+    namespace 'com.anaschenkov.p006viewbyld'
     compileSdk 33
-
 
     defaultConfig {
         applicationId "com.anaschenkov.p006viewbyld"

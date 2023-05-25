@@ -15,6 +15,8 @@
             <option value="$PROJECT_DIR$/p002basicviews" />
             <option value="$PROJECT_DIR$/p004layouts" />
             <option value="$PROJECT_DIR$/p005layouts" />
+            <option value="$PROJECT_DIR$/p006-viewbyld" />
+            <option value="$PROJECT_DIR$/p006viewbyld" />
           </set>
         </option>
       </GradleProjectSettings>
